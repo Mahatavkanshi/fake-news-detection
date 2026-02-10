@@ -1,0 +1,3 @@
+Model Selection:
+Logistic Regression is used for binary classification due to its
+simplicity and effectiveness with TF-IDF features.

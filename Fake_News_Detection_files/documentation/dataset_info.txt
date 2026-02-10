@@ -1,0 +1,4 @@
+Dataset Information:
+The dataset contains news articles labeled as fake or real.
+Label 0 represents Fake News and Label 1 represents Real News.
+Total records are limited, suitable for academic demonstration.

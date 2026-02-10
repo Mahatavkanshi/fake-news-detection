@@ -1,0 +1,3 @@
+Prediction Pipeline:
+New input text is preprocessed, vectorized using TF-IDF,
+and classified using the trained model.

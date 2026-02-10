@@ -1,0 +1,3 @@
+Deployment:
+The system is deployed using Gradio for easy interaction
+within Google Colab, avoiding server configuration issues.

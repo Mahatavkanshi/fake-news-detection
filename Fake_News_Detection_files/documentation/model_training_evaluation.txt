@@ -1,0 +1,3 @@
+Model Training and Evaluation:
+Data is split into training and testing sets.
+Accuracy is used as the primary evaluation metric.

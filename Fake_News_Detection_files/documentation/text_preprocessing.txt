@@ -1,0 +1,3 @@
+Text Preprocessing:
+Steps include lowercasing, removing punctuation and numbers,
+stopword removal, and lemmatization to clean the news text.
