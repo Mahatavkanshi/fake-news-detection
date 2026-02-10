@@ -30,3 +30,11 @@ An NLP-based Machine Learning system to classify news as Fake or Real.
 - Use BERT
 - Multilingual support
 - Cloud deployment
+
+## ▶️ Run on Google Colab
+
+Click the link below to open and run this project in Google Colab:
+
+https://colab.research.google.com/https://colab.research.google.com/drive/1kdhkitzhd2CXnvlzquHFlC9NlCRiwl67?usp=sharing
+
+
